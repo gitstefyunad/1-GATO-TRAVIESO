@@ -1,4 +1,4 @@
-<h1>Stefany Ospino Carrillo</h1>
+<h1>STEFANY PAOLA OSPINO CARRILLO</h1>
 <img src="Stefany Ospino/foto Stefany.png" alt="Foto de perfil Stefany"/>
 <h2>Rol escogido: Diseño y Animación</h2>
 <h2>Ubicación: Barranquilla, Atlántico</h2>
