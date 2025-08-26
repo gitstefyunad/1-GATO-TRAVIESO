@@ -9,7 +9,7 @@
 <p>y apoyar el cremimimento de las mipymes de mi comunidad.</p>
 
 <h1>ANDRES FELIPE AGAMEZ CALI</h1>
-<img src="Andres Agamez/Andres.png" alt="Foto de perfil de Andrés"/>
+<img src="Andres Agamez/Andres.png" alt="Foto de perfil de Andrés" width="350px" height="250"/> 
 <h2>Rol escogido: Diseñador y Programador</h2>
 <h2>Ubicación: Corozal, Sucre</h2>
 <p>Mi nombre es Andrés Agamez, soy de la ciudad de Bogotá</p>
