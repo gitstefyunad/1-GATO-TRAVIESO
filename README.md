@@ -8,3 +8,11 @@
 <p>Vivo con mis papás y hermanos. A futuro deseo crear una agencia de publicidad</p>
 <p>y apoyar el cremimimento de las mipymes de mi comunidad.</p>
 
+<h1>ANDRES FELIPE AGAMEZ CALI</h1>
+<img src="Andres Agamez/Andres.png" alt="Foto de perfil de Andrés"/>
+<h2>Rol escogido: Diseñador y Programador</h2>
+<h2>Ubicación: Corozal, Sucre</h2>
+<p>Mi nombre es Andrés Agamez, soy de la ciudad de Bogotá</p>
+<p>Actualmente vivo en Corozal, sucre con mi abuela y una tía</p>
+<p>Estudio Ingeniería multimedia y trabajo como profesor y en una tienda de electronica</p>
+
