@@ -16,3 +16,13 @@
 <p>Actualmente vivo en Corozal, sucre con mi abuela y una tía</p>
 <p>Estudio Ingeniería multimedia y trabajo como profesor y en una tienda de electronica</p>
 
+<h1>Isabela Otero Vargas</h1>
+<img src="FotoIsabelaOtero.png" alt="Foto de Isabela Otero" width="400" height="300" loading="lazy">
+<p><strong>Concept artist & Level designer</strong></p>
+<h2>📍 Cartagena de Indias</h2>
+
+<p>
+Soy Isabela Otero, tengo 22 años y estudio Ingeniería Multimedia.  
+Mis hobbies incluyen dibujar y jugar.  
+Mi objetivo es convertir esos dos hobbies en mi carrera, y por eso decidí estudiar para posteriormente ser parte de la industria de videojuegos.
+</p>
