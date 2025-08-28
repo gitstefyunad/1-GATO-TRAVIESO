@@ -17,9 +17,9 @@
 <p>Estudio Ingeniería multimedia y trabajo como profesor y en una tienda de electronica</p>
 
 <h1>Isabela Otero Vargas</h1>
-<img src="FotoIsabelaOtero.png" alt="Foto de Isabela Otero" width="400" height="300" loading="lazy">
+<img src="Isabela Otero/FotoIsabelaOtero.png" alt="Foto de Isabela Otero" width="400" height="300" loading="lazy">
 <p><strong>Concept artist & Level designer</strong></p>
-<h2>📍 Cartagena de Indias</h2>
+<p>📍 Cartagena de Indias</p>
 
 <p>
 Soy Isabela Otero, tengo 22 años y estudio Ingeniería Multimedia.  
